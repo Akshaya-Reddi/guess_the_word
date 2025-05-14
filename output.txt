@@ -1,0 +1,50 @@
+Current word: _ _ _ _
+Guess a letter: k
+Wrong guess! Attempts left: 9
+
+Current word: _ _ _ _
+Guess a letter: i
+Great guess!
+
+Current word: _ i _ _
+Guess a letter: e
+Wrong guess! Attempts left: 8
+
+Current word: _ i _ _
+Guess a letter: z
+Great guess!
+
+Current word: _ i z z
+Guess a letter: q
+Wrong guess! Attempts left: 7
+
+Current word: _ i z z
+Guess a letter: k
+Wrong guess! Attempts left: 6
+
+Current word: _ i z z
+Guess a letter: l
+Wrong guess! Attempts left: 5
+
+Current word: _ i z z
+Guess a letter: w
+Wrong guess! Attempts left: 4
+
+Current word: _ i z z
+Guess a letter: h
+Wrong guess! Attempts left: 3
+
+Current word: _ i z z
+Guess a letter: s
+Wrong guess! Attempts left: 2
+
+Current word: _ i z z
+Guess a letter: d
+Wrong guess! Attempts left: 1
+
+Current word: _ i z z
+Guess a letter: f
+Wrong guess! Attempts left: 0
+
+You've run out of attempts! The word was: rizz
+
